@@ -42,8 +42,10 @@ input {
   
 }
 h1 {
-  color: aqua;
+  color:cadetblue;
   padding: auto;
   font-size: 100px;
   display: flex;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
